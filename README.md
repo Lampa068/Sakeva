@@ -1,0 +1,1 @@
+This project is an unofficial fan-made concept/showcase created to demonstrate web development skills for the Sakeva server. It is not affiliated with, endorsed by, or official property of Sakeva. All server names, trademarks, and related assets belong to their respective owners.
